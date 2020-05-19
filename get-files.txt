@@ -1,0 +1,760 @@
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2018/12/03/tengo-las-riendas-del-poder-en-las-manos-hay-gobierno-para-dar-seguridad-a-los-mexicanos-senala-presidente-en-su-primera-conferencia-de-prensa-matutina/
+mv index.html 20181203.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2018/12/04/conferencia-de-prensa-del-presidente-de-mexico-andres-manuel-lopez-obrador/
+mv index.html 20181204.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2018/12/05/version-estenografica-conferencia-de-prensa-del-presidente-de-mexico-andres-manuel-lopez-obrador/
+mv index.html 20181205.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2018/12/06/version-estenografica-conferencia-de-prensa-del-presidente-de-mexico-andres-manuel-lopez-obrador-2/
+mv index.html 20181206.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2018/12/07/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-de-mexico-andres-manuel-lopez-obrador/
+mv index.html 20181207.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2018/12/10/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador/
+mv index.html 20181210.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2018/12/11/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-2/
+mv index.html 20181211.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2018/12/12/version-estenografica-de-la-conferencia-de-prensa-del-presidente-de-mexico-andres-manuel-lopez-obrador/
+mv index.html 20181212.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2018/12/13/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-3/
+mv index.html 20181213.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2018/12/14/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-4/
+mv index.html 20181214.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2018/12/17/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-5/
+mv index.html 20181217.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2018/12/18/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-6/
+mv index.html 20181218.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2018/12/19/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-7/
+mv index.html 20181219.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2018/12/20/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-8/
+mv index.html 20181220.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2018/12/21/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-9/
+mv index.html 20181221.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2018/12/24/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-10/
+mv index.html 20181224.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2018/12/26/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-11/
+mv index.html 20181226.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2018/12/27/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-12/
+mv index.html 20181227.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2018/12/28/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-13/
+mv index.html 20181228.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2018/12/31/presidente-envia-mensaje-a-los-mexicanos-por-ano-nuevo/
+mv index.html 20181231.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/01/02/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-14/
+mv index.html 20190102.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/01/03/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-15/
+mv index.html 20190103.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/01/04/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-16/
+mv index.html 20190104.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/01/07/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-17/
+mv index.html 20190107.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/01/08/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-18/
+mv index.html 20190108.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/01/09/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-19/
+mv index.html 20190109.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/01/10/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-20/
+mv index.html 20190110.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/01/11/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-21/
+mv index.html 20190111.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/01/14/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-22/
+mv index.html 20190114.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/01/15/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-23/
+mv index.html 20190115.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/01/16/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-24/
+mv index.html 20190116.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/01/17/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-25/
+mv index.html 20190117.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/01/18/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-26/
+mv index.html 20190118.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/01/19/version-estenografica-de-la-conferencia-de-prensa-extraordinaria-del-presidente-andres-manuel-lopez-obrador/
+mv index.html 20190119.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/01/20/version-estenografica-de-la-conferencia-de-prensa-extraordinaria-del-presidente-andres-manuel-lopez-obrador-3/
+mv index.html 20190120.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/01/21/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-27/
+mv index.html 20190121.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/01/22/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-28/
+mv index.html 20190122.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/01/23/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-29/
+mv index.html 20190123.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/01/24/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-30/
+mv index.html 20190124.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/01/25/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-31/
+mv index.html 20190125.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/01/28/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-32/
+mv index.html 20190128.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/01/29/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-33/
+mv index.html 20190129.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/01/30/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-34/
+mv index.html 20190130.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/01/31/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-35/
+mv index.html 20190131.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/02/01/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-36/
+mv index.html 20190201.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/02/04/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-37/
+mv index.html 20190204.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/02/05/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-38/
+mv index.html 20190205.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/02/06/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-39/
+mv index.html 20190206.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/02/07/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-40/
+mv index.html 20190207.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/02/08/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-41/
+mv index.html 20190208.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/02/11/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-42/
+mv index.html 20190211.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/02/12/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-43/
+mv index.html 20190212.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/02/13/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-44/
+mv index.html 20190213.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/02/14/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-45/
+mv index.html 20190214.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/02/15/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-46/
+mv index.html 20190215.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/02/18/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-47/
+mv index.html 20190218.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/02/19/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-48/
+mv index.html 20190219.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/02/20/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-en-nuevo-leon/
+mv index.html 20190220.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/02/21/version-estenografica-de-la-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador/
+mv index.html 20190221.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/02/22/version-estenografica-de-la-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-2/
+mv index.html 20190222.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/02/25/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-49/
+mv index.html 20190225.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/02/26/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-50/
+mv index.html 20190226.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/02/27/version-estenografica-de-la-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-3/
+mv index.html 20190227.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/02/28/version-estenografica-de-la-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-4/
+mv index.html 20190228.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/03/01/version-estenografica-de-la-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-5/
+mv index.html 20190301.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/03/04/version-estenografica-de-la-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-6/
+mv index.html 20190304.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/03/05/version-estenografica-de-la-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-7/
+mv index.html 20190305.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/03/06/version-estenografica-de-la-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-8/
+mv index.html 20190306.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/03/07/version-estenografica-de-la-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-9/
+mv index.html 20190307.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/03/08/version-estenografica-de-la-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-10/
+mv index.html 20190308.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/03/11/version-estenografica-de-la-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-11/
+mv index.html 20190311.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/03/11/version-estenografica-informe-por-los-primeros-100-dias-de-gobierno/
+mv index.html 20190311b.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/03/12/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-51/
+mv index.html 20190312.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/03/13/version-estenografica-de-la-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-12/
+mv index.html 20190313.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/03/14/version-estenografica-de-la-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-13/
+mv index.html 20190314.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/03/15/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-52/
+mv index.html 20190315.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/03/18/version-estenografica-de-la-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-14/
+mv index.html 20190318.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/03/19/version-estenografica-de-la-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-15/
+mv index.html 20190319.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/03/20/version-estenografica-de-la-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-16/
+mv index.html 20190320.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/03/21/version-estenografica-de-la-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-17/
+mv index.html 20190321.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/03/22/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-53/
+mv index.html 20190322.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/03/25/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-54/
+mv index.html 20190325.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/03/26/version-estenografica-de-la-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-18/
+mv index.html 20190326.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/03/27/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-desde-tijuana-baja-california/
+mv index.html 20190327.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/03/28/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-55/
+mv index.html 20190328.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/03/29/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-56/
+mv index.html 20190329.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/04/01/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-57/
+mv index.html 20190401.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/04/02/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-58/
+mv index.html 20190402.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/04/03/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-59/
+mv index.html 20190403.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/04/04/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-60/
+mv index.html 20190404.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/04/05/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-desde-jalisco/
+mv index.html 20190405.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/04/08/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-61/
+mv index.html 20190408.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/04/09/version-estenografica-de-la-conferencia-de-prensa-matutina-y-el-encuentro-con-la-alta-comisionada-de-las-naciones-unidas-para-los-derechos-humanos-michelle-bachelete/
+mv index.html 20190409.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/04/10/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-62/
+mv index.html 20190410.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/04/11/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-63/
+mv index.html 20190411.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/04/12/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-64/
+mv index.html 20190412.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/04/15/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-65/
+mv index.html 20190415.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/04/16/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-66/
+mv index.html 20190416.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/04/17/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-67/
+mv index.html 20190417.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/04/22/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-en-veracruz-veracruz/
+mv index.html 20190422.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/04/23/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-68/
+mv index.html 20190423.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/04/24/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-69/
+mv index.html 20190424.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/04/25/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-70/
+mv index.html 20190425.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/04/26/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-71/
+mv index.html 20190426.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/04/29/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-72/
+mv index.html 20190429.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/04/30/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-73/
+mv index.html 20190430.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/05/01/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-74/
+mv index.html 20190501.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/05/02/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-75/
+mv index.html 20190502.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/05/03/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-76/
+mv index.html 20190503.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/05/06/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-77/
+mv index.html 20190506.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/05/07/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-78/
+mv index.html 20190507.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/05/08/conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-desde-zapotlan-de-juarez-hidalgo/
+mv index.html 20190508.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/05/09/version-estenografica-de-la-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-19/
+mv index.html 20190509.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/05/10/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-79/
+mv index.html 20190510.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/05/13/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-80/
+mv index.html 20190513.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/05/14/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-81/
+mv index.html 20190514.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/05/15/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-82/
+mv index.html 20190515.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/05/16/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-83/
+mv index.html 20190516.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/05/17/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-84/
+mv index.html 20190517.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/05/20/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-85/
+mv index.html 20190520.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/05/21/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-86/
+mv index.html 20190521.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/05/22/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-87/
+mv index.html 20190522.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/05/23/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-88/
+mv index.html 20190523.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/05/24/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-89/
+mv index.html 20190524.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/05/27/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-90/
+mv index.html 20190527.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/05/28/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-91/
+mv index.html 20190528.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/05/29/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-92/
+mv index.html 20190529.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/05/30/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-93/
+mv index.html 20190530.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/05/31/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-94/
+mv index.html 20190531.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/06/01/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-desde-veracruz-veracruz/
+mv index.html 20190601.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/06/03/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-95/
+mv index.html 20190603.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/06/04/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-96/
+mv index.html 20190604.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/06/05/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-97/
+mv index.html 20190605.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/06/06/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-98/
+mv index.html 20190606.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/06/07/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-99/
+mv index.html 20190607.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/06/10/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-100/
+mv index.html 20190610.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/06/11/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-101/
+mv index.html 20190611.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/06/12/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-102/
+mv index.html 20190612.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/06/13/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-103/
+mv index.html 20190613.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/06/14/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-104/
+mv index.html 20190614.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/06/17/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-105/
+mv index.html 20190617.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/06/18/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-106/
+mv index.html 20190618.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/06/19/118301/
+mv index.html 20190619.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/06/20/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-107/
+mv index.html 20190620.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/06/21/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-108/
+mv index.html 20190621.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/06/24/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-en-cancun-quintana-roo/
+mv index.html 20190624.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/06/25/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-109/
+mv index.html 20190625.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/06/26/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-110/
+mv index.html 20190626.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/06/27/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-111/
+mv index.html 20190627.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/06/28/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-112/
+mv index.html 20190628.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/06/30/version-estenografica-ceremonia-de-inauguracion-de-la-guardia-nacional-en-campo-marte/
+mv index.html 20190630.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/07/01/discurso-de-andres-manuel-lopez-obrador-presidente-constitucional-de-los-estados-unidos-mexicanos-en-su-segundo-informe-trimestral/
+mv index.html 20190701.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/07/02/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-113/
+mv index.html 20190702.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/07/03/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-114/
+mv index.html 20190703.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/07/04/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-115/
+mv index.html 20190704.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/07/05/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-116/
+mv index.html 20190705.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/07/08/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-117/
+mv index.html 20190708.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/07/09/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-118/
+mv index.html 20190709.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/07/10/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-119/
+mv index.html 20190710.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/07/11/version-estenografica-de-la-conferencia-de-prensa-del-presidente-andres-manuel-lopez-obrador-20/
+mv index.html 20190711.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/07/12/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-120/
+mv index.html 20190712.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/07/15/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-121/
+mv index.html 20190715.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/07/16/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-122/
+mv index.html 20190716.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/07/17/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-123/
+mv index.html 20190717.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/07/18/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-124/
+mv index.html 20190718.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/07/19/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-125/
+mv index.html 20190719.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/07/22/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-126/
+mv index.html 20190722.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/07/23/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-127/
+mv index.html 20190723.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/07/24/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-128/
+mv index.html 20190724.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/07/25/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-129/
+mv index.html 20190725.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/07/26/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-130/
+mv index.html 20190726.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/07/29/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrado/
+mv index.html 20190729.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/07/30/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-131/
+mv index.html 20190730.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/07/31/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-132/
+mv index.html 20190731.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/08/01/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-133/
+mv index.html 20190801.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/08/02/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-134/
+mv index.html 20190802.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/08/05/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-135/
+mv index.html 20190805.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/08/06/120202/
+mv index.html 20190806.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/08/07/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-136/
+mv index.html 20190807.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/08/08/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-137/
+mv index.html 20190808.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/08/09/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-en-durango/
+mv index.html 20190809.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/08/12/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-138/
+mv index.html 20190812.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/08/13/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-139/
+mv index.html 20190813.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/08/14/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-140/
+mv index.html 20190814.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/08/15/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-141/
+mv index.html 20190815.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/08/16/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-142/
+mv index.html 20190816.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/08/19/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-143/
+mv index.html 20190819.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/08/20/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-144/
+mv index.html 20190820.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/08/21/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-145/
+mv index.html 20190821.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/08/22/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-146/
+mv index.html 20190822.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/08/23/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-en-villahermosa-tabasco/
+mv index.html 20190823.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/08/26/version-estenografica-de-la-conferencia-de-prensa-matutina-de-presidente-andres-manuel-lopez-obrador/
+mv index.html 20190826.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/08/27/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-147/
+mv index.html 20190827.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/08/28/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-148/
+mv index.html 20190828.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/08/29/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-149/
+mv index.html 20190829.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/08/30/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-150/
+mv index.html 20190830.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/09/01/discurso-del-lic-andres-manuel-lopez-obrador-presidente-constitucional-de-los-estados-unidos-mexicanos-en-su-primer-informe-de-gobierno/
+mv index.html 20190901.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/09/02/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-en-hermosillo-sonora/
+mv index.html 20190902.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/09/03/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-151/
+mv index.html 20190903.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/09/04/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-152/
+mv index.html 20190904.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/09/05/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-153/
+mv index.html 20190905.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/09/06/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-154/
+mv index.html 20190906.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/09/09/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-155/
+mv index.html 20190909.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/09/10/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-156/
+mv index.html 20190910.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/09/11/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-157/
+mv index.html 20190911.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/09/12/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-158/
+mv index.html 20190912.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/09/13/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-159/
+mv index.html 20190913.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/09/17/conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador/
+mv index.html 20190917.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/09/18/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-160/
+mv index.html 20190918.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/09/19/version-estenografica-conmemoracion-de-las-victimas-de-los-sismos-de-1985-y-2017/
+mv index.html 20190919.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/09/20/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-en-merida-yucatan/
+mv index.html 20190920.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/09/23/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-161/
+mv index.html 20190923.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/09/24/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-162/
+mv index.html 20190924.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/09/25/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-163/
+mv index.html 20190925.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/09/26/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-164/
+mv index.html 20190926.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/09/27/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-165/
+mv index.html 20190927.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/09/30/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-166/
+mv index.html 20190930.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/10/01/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-167/
+mv index.html 20191001.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/10/02/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-168/
+mv index.html 20191002.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/10/03/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-169/
+mv index.html 20191003.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/10/04/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-en-puebla-puebla/
+mv index.html 20191004.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/10/07/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-170/
+mv index.html 20191007.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/10/08/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-171/
+mv index.html 20191008.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/10/09/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-172/
+mv index.html 20191009.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/10/10/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-173/
+mv index.html 20191010.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/10/11/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-174/
+mv index.html 20191011.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/10/14/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-175/
+mv index.html 20191014.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/10/15/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-176/
+mv index.html 20191015.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/10/16/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-177/
+mv index.html 20191016.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/10/17/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-178/
+mv index.html 20191017.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/10/18/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-en-oaxaca/
+mv index.html 20191018.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/10/21/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-179/
+mv index.html 20191021.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/10/22/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-180/
+mv index.html 20191022.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/10/23/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-181/
+mv index.html 20191023.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/10/24/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-182/
+mv index.html 20191024.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/10/25/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-183/
+mv index.html 20191025.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/10/28/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-184/
+mv index.html 20191028.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/10/29/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-185/
+mv index.html 20191029.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/10/30/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-186/
+mv index.html 20191030.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/10/31/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-187/
+mv index.html 20191031.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/11/01/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-188/
+mv index.html 20191101.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/11/04/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-189/
+mv index.html 20191104.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/11/05/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-190/
+mv index.html 20191105.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/11/06/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-191/
+mv index.html 20191106.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/11/07/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-192/
+mv index.html 20191107.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/11/08/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-193/
+mv index.html 20191108.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/11/11/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-194/
+mv index.html 20191111.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/11/12/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-195/
+mv index.html 20191112.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/11/13/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-196/
+mv index.html 20191113.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/11/14/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-197/
+mv index.html 20191114.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/11/15/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-198/
+mv index.html 20191115.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/11/18/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-199/
+mv index.html 20191118.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/11/19/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-200/
+mv index.html 20191119.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/11/21/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-201/
+mv index.html 20191121.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/11/22/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-202/
+mv index.html 20191122.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/11/25/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-203/
+mv index.html 20191125.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/11/26/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-204/
+mv index.html 20191126.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/11/27/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-205/
+mv index.html 20191127.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/11/28/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-206/
+mv index.html 20191128.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/11/29/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-207/
+mv index.html 20191129.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/12/01/discurso-informe-primer-ano-de-gobierno/
+mv index.html 20191201.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/12/02/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-208/
+mv index.html 20191202.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/12/03/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-209/
+mv index.html 20191203.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/12/04/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-210/
+mv index.html 20191204.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/12/05/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-211/
+mv index.html 20191205.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/12/06/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-212/
+mv index.html 20191206.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/12/09/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-213/
+mv index.html 20191209.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/12/10/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-214/
+mv index.html 20191210.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/12/11/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-215/
+mv index.html 20191211.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/12/12/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-216/
+mv index.html 20191212.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/12/13/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-217/
+mv index.html 20191213.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/12/16/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-2-2/
+mv index.html 20191216.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2018/12/17/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-5/
+mv index.html 20181217.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2018/12/18/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-6/
+mv index.html 20181218.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/12/19/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-220/
+mv index.html 20191219.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/12/20/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-221/
+mv index.html 20191220.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/12/23/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-222/
+mv index.html 20191223.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/12/24/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-223/
+mv index.html 20191224.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/12/26/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-224/
+mv index.html 20191226.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/12/27/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-225/
+mv index.html 20191227.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/01/02/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-226/
+mv index.html 20200102.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/01/03/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-227/
+mv index.html 20200103.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/01/06/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-228/
+mv index.html 20200106.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/01/07/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-229/
+mv index.html 20200107.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/01/08/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-230/
+mv index.html 20200108.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/01/09/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-231/
+mv index.html 20200109.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/01/10/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-232/
+mv index.html 20200110.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/01/13/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-233/
+mv index.html 20200113.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/01/14/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-234/
+mv index.html 20200114.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/01/15/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-235/
+mv index.html 20200115.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/01/16/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-236/
+mv index.html 20200116.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/01/17/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-237/
+mv index.html 20200117.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/01/20/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-238/
+mv index.html 20200120.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/01/21/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-239/
+mv index.html 20200121.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/01/22/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-240/
+mv index.html 20200122.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/01/23/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-241/
+mv index.html 20200123.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/01/24/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-242/
+mv index.html 20200124.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/01/27/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-243/
+mv index.html 20200127.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/01/28/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-244/
+mv index.html 20200128.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/01/29/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-245/
+mv index.html 20200129.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/01/30/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-246/
+mv index.html 20200130.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/01/31/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-247/
+mv index.html 20200131.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/02/03/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-248/
+mv index.html 20200203.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/02/04/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-249/
+mv index.html 20200204.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/02/05/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-250/
+mv index.html 20200205.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/02/06/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-251/
+mv index.html 20200206.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2019/02/07/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-40/
+mv index.html 20190207.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/02/10/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-253/
+mv index.html 20200210.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/02/11/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-254/
+mv index.html 20200211.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/02/12/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-255/
+mv index.html 20200212.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/02/13/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-256/
+mv index.html 20200213.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/02/14/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-257/
+mv index.html 20200214.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/02/17/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-258/
+mv index.html 20200217.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/02/18/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-259/
+mv index.html 20200218.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/02/19/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-260/
+mv index.html 20200219.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/02/20/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-261/
+mv index.html 20200220.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/02/21/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-en-la-paz-baja-california-sur/
+mv index.html 20200221.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/02/24/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-262/
+mv index.html 20200224.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/02/25/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-263/
+mv index.html 20200225.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/02/26/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-264/
+mv index.html 20200226.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/02/27/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-265/
+mv index.html 20200227.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/02/28/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-266/
+mv index.html 20200228.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/03/02/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-267/
+mv index.html 20200302.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/03/03/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-268/
+mv index.html 20200303.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/03/04/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-269/
+mv index.html 20200304.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/03/05/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-270/
+mv index.html 20200305.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/03/06/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-271/
+mv index.html 20200306.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/03/09/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-272/
+mv index.html 20200309.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/03/10/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-273/
+mv index.html 20200310.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/03/11/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-274/
+mv index.html 20200311.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/03/12/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-275/
+mv index.html 20200312.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/03/13/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-276/
+mv index.html 20200313.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/03/16/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-277/
+mv index.html 20200316.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/03/17/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-278/
+mv index.html 20200317.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/03/18/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-279/
+mv index.html 20200318.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/03/19/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-280/
+mv index.html 20200319.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/03/20/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-281/
+mv index.html 20200320.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/03/23/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-282/
+mv index.html 20200323.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/03/24/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-283/
+mv index.html 20200324.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/03/25/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-284/
+mv index.html 20200325.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/03/26/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-285/
+mv index.html 20200326.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/03/27/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-286/
+mv index.html 20200327.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/03/30/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-287/
+mv index.html 20200330.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/03/31/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-288/
+mv index.html 20200331.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/04/01/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-289/
+mv index.html 20200401.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/04/02/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-290/
+mv index.html 20200402.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/04/03/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-291/
+mv index.html 20200403.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/04/04/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-292/
+mv index.html 20200404.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/04/05/discurso-del-presidente-andres-manuel-lopez-obrador-en-su-informe-al-pueblo-de-mexico/
+mv index.html 20200405.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/04/06/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-293/
+mv index.html 20200406.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/04/07/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-294/
+mv index.html 20200407.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/04/08/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-295/
+mv index.html 20200408.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/04/09/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-296/
+mv index.html 20200409.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/04/10/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-297/
+mv index.html 20200410.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/04/13/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-298/
+mv index.html 20200413.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/04/14/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-299/
+mv index.html 20200414.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/04/15/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-300/
+mv index.html 20200415.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/04/16/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-301/
+mv index.html 20200416.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/04/17/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-302/
+mv index.html 20200417.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/04/20/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-303/
+mv index.html 20200420.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/04/21/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-304/
+mv index.html 20200421.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/04/22/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-305/
+mv index.html 20200422.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/04/23/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-306/
+mv index.html 20200423.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/04/24/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-307/
+mv index.html 20200424.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/04/27/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-308/
+mv index.html 20200427.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/04/28/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-309/
+mv index.html 20200428.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/04/29/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-310/
+mv index.html 20200429.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/04/30/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-311/
+mv index.html 20200430.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/05/01/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-312/
+mv index.html 20200501.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/05/04/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-313/
+mv index.html 20200504.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/05/05/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-314/
+mv index.html 20200505.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/05/06/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-315/
+mv index.html 20200506.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/05/07/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-316/
+mv index.html 20200507.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/05/08/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-317/
+mv index.html 20200508.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/05/11/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-318/
+mv index.html 20200511.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/05/12/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-319/
+mv index.html 20200512.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/05/13/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-320/
+mv index.html 20200513.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/05/14/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-321/
+mv index.html 20200514.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/05/15/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-322/
+mv index.html 20200515.html
+wget -U "Mozilla Firefox 75.0" https://lopezobrador.org.mx/2020/05/18/version-estenografica-de-la-conferencia-de-prensa-matutina-del-presidente-andres-manuel-lopez-obrador-323/
+mv index.html 20200518.html
